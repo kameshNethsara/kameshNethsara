@@ -1,7 +1,7 @@
-<div style="display: flex; align-items: center; justify-content: center; gap: 30px; flex-wrap: wrap; text-align: center;">
+<div style="display: flex; flex-direction: column; align-items: center; justify-content: flex-start; gap: 20px; text-align: center; max-width: 600px; margin: 0 auto;">
 
-  <!-- Column 1: Text -->
-  <div style="flex: 1 1 300px; max-width:600px;">
+  <!-- Text -->
+  <div>
     <h1 style="margin:0; font-size:28px; line-height:1.2;">
       Hi, I'm Kamesh Nethsara 👋
     </h1>
@@ -11,8 +11,8 @@
     </p>
   </div>
 
-  <!-- Column 2: GIF Image -->
-  <div style="flex: 0 0 auto;">
+  <!-- GIF Image -->
+  <div>
     <img src="assets/images/my-intro.gif" alt="Hi, I'm Kamesh Nethsara 👋" style="height:200px; max-width:300px; border-radius:12px;"/>
   </div>
 
@@ -47,7 +47,6 @@ Currently, I’m focused on strengthening my core programming fundamentals, mast
 ## 🧠 What I’m Learning & Using
 
 ### ☕ Backend & Core Programming
-
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/OOP-2F4F4F?style=for-the-badge" />
@@ -59,7 +58,6 @@ Currently, I’m focused on strengthening my core programming fundamentals, mast
 </p>
 
 ### 🗄️ Databases
-
 <p align="left">
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
@@ -67,7 +65,6 @@ Currently, I’m focused on strengthening my core programming fundamentals, mast
 </p>
 
 ### 🌐 Web Development
-
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -80,14 +77,12 @@ Currently, I’m focused on strengthening my core programming fundamentals, mast
 </p>
 
 ### 📱 Mobile Development
-
 <p align="left">
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/NativeWind-06B6D4?style=for-the-badge" />
 </p>
 
 ### 🐍 Data & Python
-
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
@@ -96,11 +91,42 @@ Currently, I’m focused on strengthening my core programming fundamentals, mast
 </p>
 
 ### 🛠️ Tools & Platforms
-
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Cloudinary-405DE6?style=for-the-badge&logo=cloudinary&logoColor=white" />
+  <img src="https://img.shields.io/badge/ImgBB-FFB200?style=for-the-badge" />
+</p>
+
+### ☁️ DevOps & Cloud Deployment
+<p align="left">
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Railway-DC1FFF?style=for-the-badge&logo=railway&logoColor=white" />
+</p>
+
+### 💻 IDE, Tools & API Testing
+<p align="left">
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Antigravity-FFC0CB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Apache_NetBeans-009999?style=for-the-badge&logo=netbeans&logoColor=white" />
+  <img src="https://img.shields.io/badge/JupyterNotebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+</p>
+
+### 🤖 AI Integration
+<p align="left">
+  <img src="https://img.shields.io/badge/Hugging_Face-FF9900?style=for-the-badge&logo=huggingface&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenRouterAI-00BFFF?style=for-the-badge" />
+</p>
+
+### 🎨 Design & Prototype
+<p align="left">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
 </p>
 
 ---
@@ -118,11 +144,12 @@ Currently, I’m focused on strengthening my core programming fundamentals, mast
 
 ## 📈 Goals
 
-* Become a strong **Full‑Stack Software Engineer**
-* Build scalable and cleanly‑architected applications
-* Contribute to open‑source projects
-* Improve problem‑solving and system‑design skills
-* Explore advanced backend, cloud, and DevOps concepts
+* Become a strong **Full‑Stack Software Engineer**  
+* Build **scalable** and **cleanly‑architected applications**  
+* Contribute to **open-source projects**  
+* Improve **problem-solving** and **system-design skills**  
+* Explore advanced **Backend, Cloud, DevOps, AI, ML and Data Science** concepts  
+* Continuously **learn and master new technologies** in software engineering and AI  
 
 ---
 
@@ -137,7 +164,7 @@ Currently, I’m focused on strengthening my core programming fundamentals, mast
 ⭐ *Always learning, always building.*
 
 <!-- Thank You Message -->
-<div style="display: flex; flex-direction: column; justify-content: center; align-items: center; text-align: center; margin-top: 40px;">
+<!-- <div style="display: flex; flex-direction: column; justify-content: center; align-items: center; text-align: center; margin-top: 40px;">
   <div style="
     font-family: 'Courier New', Courier, monospace;
     font-size: 28px;
@@ -161,5 +188,5 @@ Currently, I’m focused on strengthening my core programming fundamentals, mast
   @keyframes blink {
     50% { border-color: transparent; }
   }
-</style>
+</style> -->
 
